@@ -1,4 +1,4 @@
-# Opencore-Everyday
+# Opencore-x1 Carbon Gen2 2014 (20A7)
 EFI Hackintosh Thinkpad X1 Carbon Gen 2 2014 (20A7)
 
 Spec:
