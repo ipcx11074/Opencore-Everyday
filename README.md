@@ -1,0 +1,2 @@
+# Opencore-Everyday
+EFI Hackintosh
